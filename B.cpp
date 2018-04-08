@@ -1,7 +1,3 @@
-//
-// Created by Andrew Huang on 4/7/18.
-//
-
 #include <iostream>
 using namespace std;
 #define int unsigned long long
